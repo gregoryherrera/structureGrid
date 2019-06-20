@@ -1,0 +1,14 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+#one,
+#two,
+#three,
+#four,
+#five {
+    background-color: gray;
+    height: 100px;
+}
