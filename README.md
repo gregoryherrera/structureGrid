@@ -1,2 +1,0 @@
-# structureGrid
-CSS Grid
